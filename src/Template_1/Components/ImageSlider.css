@@ -1,0 +1,17 @@
+@media screen and (max-width: 1000px) {
+    .css-heg063-MuiTabs-flexContainer
+    {
+        height:100%;
+        width:100%;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .MuiTabs-flexContainer
+    {
+        height:100%;
+        width:100%;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+
