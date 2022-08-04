@@ -5,16 +5,7 @@ import Tab from '@mui/material/Tab';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 
-import PhoneIcon from '@mui/icons-material/Phone';
-import CountertopsIcon from '@mui/icons-material/Countertops';
-import PoolIcon from '@mui/icons-material/Pool';
 import BedIcon from '@mui/icons-material/Bed';
-import FavoriteIcon from '@mui/icons-material/Favorite';
-import PersonPinIcon from '@mui/icons-material/PersonPin';
-import ForestIcon from '@mui/icons-material/Forest';
-import LocalBarIcon from '@mui/icons-material/LocalBar';
-import RestaurantMenuIcon from '@mui/icons-material/RestaurantMenu';
-import WavesIcon from '@mui/icons-material/Waves';
 import { Carousel } from 'react-responsive-carousel';
 
 import Bar1 from '../Media/sorted/Bar/1.jpg';
@@ -36,21 +27,16 @@ import Camere4 from '../Media/sorted/Camere/4.jpg';
 import Camere5 from '../Media/sorted/Camere/5.jpg';
 import Camere6 from '../Media/sorted/Camere/6.jpg';
 import Camere7 from '../Media/sorted/Camere/7.jpg';
-import Camere8 from '../Media/sorted/Camere/8.jpg';
 import Camere9 from '../Media/sorted/Camere/9.jpeg';
 import Camere10 from '../Media/sorted/Camere/10.jpeg';
-import Camere11 from '../Media/sorted/Camere/11.jpeg';
 import Camere12 from '../Media/sorted/Camere/12.jpeg';
 
 import Bucatarie1 from '../Media/sorted/Bucatarie/1.jpg';
 import Bucatarie2 from '../Media/sorted/Bucatarie/2.jpg';
 import Bucatarie3 from '../Media/sorted/Bucatarie/3.jpeg';
 
-import Imprejur1 from '../Media/sorted/Imprejurari/1.jpg';
 import Imprejur2 from '../Media/sorted/Imprejurari/2.jpg';
-import Imprejur3 from '../Media/sorted/Imprejurari/3.jpg';
 import Imprejur4 from '../Media/sorted/Imprejurari/4.jpg';
-import Imprejur5 from '../Media/sorted/Imprejurari/5.jpg';
 import Imprejur6 from '../Media/sorted/Imprejurari/6.jpg';
 import Imprejur7 from '../Media/sorted/Imprejurari/7.jpg';
 import Imprejur8 from '../Media/sorted/Imprejurari/8.jpg';
@@ -70,7 +56,6 @@ import Imprejur21 from '../Media/sorted/Imprejurari/21.jpeg';
 
 import Ciubar1 from '../Media/sorted/Ciubar/1.jpg';
 import Ciubar2 from '../Media/sorted/Ciubar/2.jpeg';
-import Ciubar3 from '../Media/sorted/Ciubar/3.jpeg';
 
 import Camera_1_1 from '../Media/Camere/1/1.jpg';
 import Camera_1_2 from '../Media/Camere/1/2.jpg';

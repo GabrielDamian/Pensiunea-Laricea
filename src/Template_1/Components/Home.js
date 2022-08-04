@@ -76,7 +76,7 @@ const Home = ()=>{
             title:'Agrement ',
             desc: 'Agrement in Vatra Dornei si zonele apropiate. Posibilitati de petrecere a timpului liber, modalitati de relaxare sau activitati de turism activ.',
             image: Activity3,
-            link: '/'
+            link: '/agrement'
         },
     ]
     const widget_2_section_3 = []
