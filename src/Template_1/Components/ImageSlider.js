@@ -40,6 +40,24 @@ import Bucatarie1 from '../Media/sorted/Bucatarie/1.jpg';
 import Bucatarie2 from '../Media/sorted/Bucatarie/2.jpg';
 import Bucatarie3 from '../Media/sorted/Bucatarie/3.jpeg';
 
+import Impreju_01 from '../Media/Poze noi/1.jpeg';
+import Impreju_02 from '../Media/Poze noi/3.jpeg';
+import Impreju_03 from '../Media/Poze noi/7.jpeg';
+import Impreju_04 from '../Media/Poze noi/8.jpeg';
+import Impreju_05 from '../Media/Poze noi/10.jpeg';
+import Impreju_06 from '../Media/Poze noi/11.jpeg';
+import Impreju_07 from '../Media/Poze noi/12.jpeg';
+import Impreju_08 from '../Media/Poze noi/13.jpeg';
+import Impreju_09 from '../Media/Poze noi/14.jpeg';
+import Impreju_10 from '../Media/Poze noi/15.jpeg';
+import Impreju_11 from '../Media/Poze noi/16.jpeg';
+import Impreju_12 from '../Media/Poze noi/17.jpeg';
+import Impreju_13 from '../Media/Poze noi/18.jpeg';
+import Impreju_14 from '../Media/Poze noi/19.jpeg';
+import Impreju_15 from '../Media/Poze noi/20.jpeg';
+
+
+
 import Imprejur2 from '../Media/sorted/Imprejurari/2.jpg';
 import Imprejur4 from '../Media/sorted/Imprejurari/4.jpg';
 import Imprejur6 from '../Media/sorted/Imprejurari/6.jpg';
@@ -61,6 +79,11 @@ import Imprejur21 from '../Media/sorted/Imprejurari/21.jpeg';
 
 import Ciubar1 from '../Media/sorted/Ciubar/1.jpg';
 import Ciubar2 from '../Media/sorted/Ciubar/2.jpeg';
+import Ciubar3 from '../Media/Poze noi/4.jpeg';
+import Ciubar4 from '../Media/Poze noi/5.jpeg';
+import Ciubar5 from '../Media/Poze noi/6.jpeg';
+import Ciubar6 from '../Media/Poze noi/9.jpeg';
+import Ciubar7 from '../Media/Poze noi/21.jpeg';
 
 import './ImageSlider.css';
 
@@ -109,8 +132,8 @@ export default function ImageSlider() {
   let RestImgs = [Restaurant1,Restaurant2,Restaurant3,Restaurant4,Restaurant5,Restaurant6,Restaurant7]
   let CamereImgs = [Camere1,Camere2,Camere3,Camere4,Camere5,Camere6,Camere7,Camere9,Camere10,Camere12]
   let Bucatarie = [Bucatarie1,Bucatarie2,Bucatarie3]
-  let Imprejur = [Imprejur2,Imprejur4,Imprejur6,Imprejur7,Imprejur8,Imprejur9,Imprejur10,Imprejur11,Imprejur12,Imprejur13,Imprejur14,Imprejur15,Imprejur16,Imprejur17,Imprejur18,Imprejur19,Imprejur20,Imprejur21]
-  let Ciubar = [Ciubar1,Ciubar2]
+  let Imprejur = [Impreju_01,Impreju_02,Impreju_03,Impreju_04,Impreju_05,Impreju_06,Impreju_07,Impreju_08,Impreju_09,Impreju_10,Impreju_11,Impreju_12,Impreju_13,Impreju_14,Impreju_15,Imprejur4,Imprejur6,Imprejur7,Imprejur8,Imprejur9,Imprejur10,Imprejur11,Imprejur12,Imprejur13,Imprejur14,Imprejur15,Imprejur16,Imprejur17,Imprejur18,Imprejur19,Imprejur20,Imprejur21]
+  let Ciubar = [Ciubar3,Ciubar4,Ciubar5,Ciubar6,Ciubar7,Ciubar1,Ciubar2]
 
   const [customMobileSlider, setCustomMobileSlider] = useState({})
   const [mobileSliderFix, setMobileSliderFix] = useState({})
